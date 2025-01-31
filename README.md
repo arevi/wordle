@@ -16,6 +16,10 @@ This is a React-based clone of the popular word game Wordle. The game allows use
 - **Frontend:** React, TailwindCSS, HeroIcons
 - **Build Tools:** Vite
 
+## Live Demo
+
+[Click here to visit live demo](https://unique-faloodeh-905270.netlify.app/)
+
 ## Installation
 
 1. Clone the repository:
